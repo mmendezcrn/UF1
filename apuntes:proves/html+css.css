@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>html+css</title>
+  <style>
+
+  div {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    transform: ;
+    transform: rotate(90deg) translateX(-25px) skewX(00deg) matrix();
+    border-radius: 0 50px 50px 50px;
+    animation: gotascaen 2s;
+  }
+
+  @@keyframes gotascaen {
+
+    0% {}
+
+    100% {}
+
+  }
+  </style>
+</head>
+<body>
+
+</body>
+</html>
